@@ -1,0 +1,13 @@
+{
+  "name": "headsortails",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Svetlana Naumovich <svetlana.herissonn@gmail.com>",
+  "type": "commonjs",
+  "main": "HeadsOrTails.js",
+  "scripts": {
+   "statistics": "node statistics.js result.txt",
+   "game": "node HeadsOrTails.js result.txt"
+  }
+}
