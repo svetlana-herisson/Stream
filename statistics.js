@@ -30,3 +30,4 @@ fs.readFile('result.txt', 'utf-8', (err, data) => {
     console.log(`Количество проигранных партий: ${losses}`);
     console.log(`Процент выигранных партий: ${winPercentage}%`);
 })
+
